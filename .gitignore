@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.bzrignore
+.gitignore
+.idea/workspace.xml
+js/mf-pattern/.svn/
+js/mf-pattern/img/
