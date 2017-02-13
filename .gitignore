@@ -1,6 +1,22 @@
-# Created by .ignore support plugin (hsz.mobi)
-.bzrignore
+*.idea
+.idea
+idea
+.DS_Store
+*.DS_Store
 .gitignore
-.idea/workspace.xml
-js/mf-pattern/.svn/
-js/mf-pattern/img/
+
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+node_modules
+npm-debug.log
